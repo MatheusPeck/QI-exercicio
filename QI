@@ -1,0 +1,19 @@
+fun Media(x: Flutuante, y: Flutuante) {
+    var resultado : Float = (x+y)/2
+    println(resultado)
+}
+
+fun main(args: Array<>) {
+    val x : Flutuante = 10F
+    val : Flutuante = 15,5F
+    println(Media(x,y))
+   
+    val palavra = "roma"
+    val reverse = palavra.reversed()
+    println(reverso)
+    if (palavra == reverso) {
+        println("é palíndromo")
+    } senão {
+        println("não palindromo")
+    }
+}
